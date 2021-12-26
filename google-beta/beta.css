@@ -1,0 +1,50 @@
+*{
+    margin: 2px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+header{
+    display: block;
+    text-align: -webkit-center;
+}
+
+table ul{
+    list-style: none ;
+    text-align: center;
+}
+
+table {
+    width: 90%;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    margin: auto ;
+    border: 0;
+}
+.button{
+    margin-top:-5px;
+}
+
+.first-tr{
+    background-color: rgb(238,238,238) ;
+}
+
+.box1{
+    margin: 0px;
+    background-color: rgb(126,229,218)  ;
+}
+
+.box2{
+    background-color: rgb(112,204,194);
+}
+
+.box3{
+    background-color:  rgb(98,179,170) ;
+}
+
+.tr3 {
+    text-align: center;
+    margin-top: 50px;
+}
